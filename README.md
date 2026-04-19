@@ -130,7 +130,9 @@ pytest ..\tests -v
 - Update the frontend API base URL in `frontend/script.js` to the deployed backend URL before deploying the frontend separately
 
 
+
 ## Deployment Link
 
+Frontend: https://majestic-kashata-e07acd.netlify.app  
 Live API: https://task-manager-6ras.onrender.com  
 API Docs: https://task-manager-6ras.onrender.com/docs
