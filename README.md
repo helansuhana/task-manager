@@ -129,6 +129,8 @@ pytest ..\tests -v
 - Make sure `/docs` is publicly accessible
 - Update the frontend API base URL in `frontend/script.js` to the deployed backend URL before deploying the frontend separately
 
+
 ## Deployment Link
 
-Add your live deployment URL here after deploying the project.
+Live API: https://task-manager-6ras.onrender.com  
+API Docs: https://task-manager-6ras.onrender.com/docs
